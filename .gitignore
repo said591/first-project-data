@@ -1,0 +1,4 @@
+# ce fichier permet d'éviter de sauvegarder des repertoires inutiles dans le repo git ou des fichiers qui peuvent etre générées automatiquement
+#  environnement virtuel 
+
+.venv
